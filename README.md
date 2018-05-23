@@ -1,2 +1,2 @@
 # java-oop
-library-application
+application of basic object oriented programming
